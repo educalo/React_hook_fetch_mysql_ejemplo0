@@ -1,0 +1,14 @@
+1.- Dentro de la carpeta Servidor 
+
+2.- npm init -y para crear el fichero package.json
+3.- npm install express mysql cors nodemon
+
+4.- Dentro de la carpeta raiz poner npx create-react-app cliente
+
+5.- entrar carpeta cliente npm start
+
+6.- Modifico el fichero de App.jsx de la parte cliente
+
+
+7.- Para probarlo debo de arrancar la parte servidor con npm start y debe salir un log "escuchando"
+8.- Arrancar la parte cliente nmp start y debe arrancar la parte cliente en  un navegador
